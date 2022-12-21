@@ -12,6 +12,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "debug": "react-scripts debug",
+    "release": "react-scripts release",
     "eject": "react-scripts eject"
   }
 }
